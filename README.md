@@ -1,6 +1,11 @@
 # Learn Python Basics
 [![Watch Video](https://github.com/murtazahassan/Learn-Python/blob/master/Python_Tumbnail.jpg)](https://youtu.be/G2q63_JUgDI)
 
+############################################################################################
+Watch Video Tutorial: https://youtu.be/G2q63_JUgDI
+############################################################################################
+Downlaod PDF Guide: https://github.com/murtazahassan/Learn-Python/blob/master/Python%20Basics%20(by%20Murtaza's%20Workshop).pdf
+############################################################################################
 # What will you learn ?
 
 1.	Introduction 
