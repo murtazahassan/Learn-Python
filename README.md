@@ -1,5 +1,4 @@
-# Learn-Python
-Beginners guide to learning python
+# Learn Python Basics
 [![Watch Video](https://github.com/murtazahassan/Learn-Python/blob/master/Python_Tumbnail.jpg)](https://youtu.be/G2q63_JUgDI)
 
 # What will you learn ?
